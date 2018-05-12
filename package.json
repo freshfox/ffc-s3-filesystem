@@ -22,16 +22,16 @@
     "start": "node dist/index.js",
     "test": "NODE_ENV=test mocha dist/test",
     "build:ts": "tsc",
-    "preversion": "yarn run build && yarn test",
+    "preversion": "yarn build && yarn test",
     "postversion": "git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:freshfox/ffc-node.git"
+    "url": "git@github.com:freshfox/node-boilderplate.git"
   },
   "author": "Dominic Bartl",
   "license": "MIT",
-  "homepage": "https://github.com/freshfox/ffc-node",
+  "homepage": "https://github.com/freshfox/node-boilderplate",
   "dependencies": {
   },
   "devDependencies": {

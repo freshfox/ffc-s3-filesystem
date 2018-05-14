@@ -1,7 +1,7 @@
 {
-  "name": "node-boilerplate",
+  "name": "ffc-s3-filesystem",
   "version": "0.0.0",
-  "description": "A boilerplate for creating node.js projects with Typescript",
+  "description": "FileSystem implementation for AWS S3",
   "main": "dist/app/index.js",
   "types": "dist/app/index.d.ts",
   "directories": {
@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:freshfox/node-boilderplate.git"
+    "url": "git@github.com:freshfox/ffc-s3-filesystem.git"
   },
   "author": "Dominic Bartl",
   "license": "MIT",
-  "homepage": "https://github.com/freshfox/node-boilderplate",
+  "homepage": "https://github.com/freshfox/ffc-s3-filesystem",
   "dependencies": {
   },
   "devDependencies": {

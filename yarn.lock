@@ -625,9 +625,9 @@ extract-opts@^2.2.0:
   dependencies:
     typechecker "~2.0.1"
 
-ffc-node@^11.2.0:
-  version "11.2.0"
-  resolved "https://registry.yarnpkg.com/ffc-node/-/ffc-node-11.2.0.tgz#b33a31967edc600e244b129c7c1c5849c855e04c"
+ffc-node@^12.0.0:
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/ffc-node/-/ffc-node-12.0.0.tgz#a2086464d5c4bf745d0a75329fe5b1005dd133d6"
   dependencies:
     "@types/express" "^4.11.0"
     "@types/knex" "^0.14.8"

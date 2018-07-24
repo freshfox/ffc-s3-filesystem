@@ -1,6 +1,6 @@
 {
   "name": "ffc-s3-filesystem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FileSystem implementation for AWS S3",
   "main": "dist/app/index.js",
   "types": "dist/app/index.d.ts",
